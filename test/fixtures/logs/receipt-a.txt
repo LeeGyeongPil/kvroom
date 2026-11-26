@@ -1,0 +1,5 @@
+# Source: https://github.com/vllm-project/vllm/issues/12330 (read 2026-11-27)
+# meta-llama/Meta-Llama-3-8B on a single A100 40GB. Only the quoted lines are kept.
+the rest of the memory reserved for KV Cache is 11.12GiB.
+INFO 01-13 11:35:23 gpu_executor.py:76] # GPU blocks: 5691, # CPU blocks: 2048
+INFO 01-13 11:35:23 gpu_executor.py:80] Maximum concurrency for 8192 tokens per request: 11.12x

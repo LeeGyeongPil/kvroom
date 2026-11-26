@@ -1,0 +1,6 @@
+# Source: https://dev.to/ratibor78/running-openais-gpt-oss-20b-with-128k-context-on-a-single-l4-gpu-27ac (read 2026-11-27)
+# openai/gpt-oss-20b on one L4, vLLM v0.12.0, --max-model-len 128000 --max-num-batched-tokens 8128. Only the quoted lines are kept.
+INFO [model.py] Using max model len 128000
+INFO [gpu_worker.py] Available KV cache memory: 4.17 GiB
+INFO [kv_cache_utils.py] GPU KV cache size: 182,336 tokens
+INFO [kv_cache_utils.py] Maximum concurrency for 128,000 tokens per request: 2.68x
