@@ -5,6 +5,12 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-27
+
+### Fixed
+- CI: bump workflow actions to Node 24 runtimes, restrict token permissions to read-only contents.
+- Bug report template placeholder now matches this project (Node, browser).
+
 ## [0.1.0] - 2026-11-27
 
 ### Added

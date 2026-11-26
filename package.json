@@ -1,6 +1,6 @@
 {
   "name": "kvroom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "description": "Plan LLM serving KV cache capacity before renting GPUs: vLLM/SGLang block rules, length x concurrency table, paste-ready flags.",
   "license": "MIT",
